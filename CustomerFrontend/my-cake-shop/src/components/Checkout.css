@@ -1,0 +1,8 @@
+:where(.css-dev-only-do-not-override-nqoqt9)
+    .ant-select-single:not(.ant-select-customize-input) 
+        .ant-select-selector{
+            background-color: #2C2C2D;
+            border: unset;
+            color: #FFFFFF;
+            
+        }

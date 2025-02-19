@@ -1,0 +1,91 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.cormorant-garamond-light {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .cormorant-garamond-regular {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .cormorant-garamond-medium {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .cormorant-garamond-semibold {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .cormorant-garamond-bold {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .cormorant-garamond-light-italic {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .cormorant-garamond-regular-italic {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .cormorant-garamond-medium-italic {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .cormorant-garamond-semibold-italic {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .cormorant-garamond-bold-italic {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+
+
+.jost-font {
+  font-family: "Jost", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+.style-script-regular {
+  font-family: "Style Script", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p{
+  font-family: "Jost", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 32px;
+}
+
+:where(.css-dev-only-do-not-override-nqoqt9).ant-select-outlined:not(.ant-select-customize-input) .ant-select-selector {
+  background-color: unset;
+  border: 1px solid #8B7355;
+  color: antiquewhite;
+}
